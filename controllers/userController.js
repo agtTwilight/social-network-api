@@ -7,7 +7,7 @@ module.exports = {
       .then((users) => res.json(users))
       .catch((err) => res.status(500).json(err));
   },
-  // TODO make .populate work when there isn't anything to populate (asyn await with if checkers could work)
+  
   // get single user
   getSingleUser(req, res) {
     User.findOne({ _id: req.params.userId })
