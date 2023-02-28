@@ -2,6 +2,8 @@
 # social-network-api
 ![badge](https://img.shields.io/badge/License-MIT-yellow.svg)
 
+walk through video: https://drive.google.com/file/d/1F4V7ox6XWoym_6YTIOClQ5zvmDu2EUZn/view?usp=sharing
+
 ## Description
 **What was your motivation?** <br>
 I wanted to build a social media data base using mongodb <br><br>
